@@ -1,0 +1,19 @@
+
+
+.customized-icon{
+width : 30px;
+height : 30px;
+display: flex;
+align-items: center;
+justify-content: center;
+    border-radius: 50%;
+    border : 1px solid dodgerblue;
+    font-size : 16px;
+}
+.form-control {
+    box-shadow : none!important;
+}
+.im-signup {
+    width : 100%;
+    object-fit: cover;
+}
